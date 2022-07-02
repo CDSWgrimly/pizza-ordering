@@ -1,0 +1,40 @@
+-----------------------------------------------------------
+|             * Menu *                                     |
+|Appetizers                                                |
+|----------                                                |
+|Cheesy Breadsticks - $4.99                                |
+|Garlic Knots - $5.99                                      |
+|                                                          |
+|BYO Pizza                                                 |
+|---------                                                 |
+|Step 1: Choose a size                                     |
+|Small - $5.00                                             |
+|Medium - $6.50                                            |
+|Large - $7.50                                             |
+|                                                          |
+|Step 2: Choose toppings (50 cents each, max 3)            |
+| - Pepperoni   - Olives                                   |
+| - Sausage     - Canadian Bacon                           |
+| - Hamburger   - Mushrooms                                |
+| - Green Peppers   - Red Peppers                          |
+|                                                          |
+|Specialty Pizzas                                          |
+|----------------                                          |
+|Sizes                                                     |
+|Small - Base Price                                        |
+|Medium - + $1.00                                          |
+|Large - + $1.50                                           |
+|                                                          |
+|Pizzas                                                    |
+|Meat Lover's - $7.99                                      |
+|Supreme - $6.99                                           |
+|Taco Salad - $8.99                                        |
+|Connor's Favorite - $10.99                                |
+|Drinks                                                    |
+|------                                                    |
+|All drinks come as 2 liter bottles - $2.14 each           |
+| - Pepsi   - Mtn Dew                                      |    
+| - Root Beer   - Dr. Pepper                               |
+| - Coca-Cola   - Diet Coca-Cola                           |
+| - Diet Pepsi  - Diet Mtn Dew                             |
+------------------------------------------------------------
